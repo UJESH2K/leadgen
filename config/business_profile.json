@@ -1,0 +1,10 @@
+{
+  "company_name": "Your Company",
+  "sector": "healthcare",
+  "include_keywords": ["paracetamol", "tablet", "syringe", "diagnostic", "medical equipment", "hospital supply"],
+  "exclude_keywords": ["road", "bridge", "metro"],
+  "preferred_states": ["Maharashtra", "Karnataka", "Tamil Nadu", "Delhi"],
+  "min_tender_value_inr": 100000,
+  "max_tender_value_inr": 500000000,
+  "closing_within_days": 45
+}

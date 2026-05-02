@@ -1,0 +1,2 @@
+source,tender_id,title,organization,state,city,category,tender_value_inr,published_at,closing_at,details_url,score,reasons
+mock_cppt,2026_HEALTH_001,Supply of Paracetamol 500mg Tablets for district hospitals,State Medical Procurement Corporation,Karnataka,,Drugs,2500000,2026-04-30T23:38:03.398904,2026-05-14T23:38:03.398904,https://example.gov/tenders/2026_HEALTH_001,0.7999999999999999,"['keyword_matches=2', 'preferred_state', 'value_in_range', 'closing_in_11_days']"
